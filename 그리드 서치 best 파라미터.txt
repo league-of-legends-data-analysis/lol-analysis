@@ -1,0 +1,24 @@
+탑
+{'max_depth': 7, 'max_features': 0.7, 'min_samples_split': 20, 'n_estimators': 200, 'random_state': 0}
+{'learning_rate': 0.01, 'max_depth': 7, 'n_estimators': 300, 'random_state': 0, 'subsample': 0.7}
+{'colsample_bytree': 0.8, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 1500, 'random_state': 0, 'subsample': 0.7}
+
+정글
+{'max_depth': 10, 'max_features': 0.7, 'min_samples_split': 5, 'n_estimators': 100, 'random_state': 0}
+{'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'random_state': 0, 'subsample': 0.7}
+{'colsample_bytree': 0.8, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 2000, 'random_state': 0, 'subsample': 0.7}
+
+미드
+'max_depth': 10, 'max_features': 0.8, 'min_samples_split': 10, 'n_estimators': 300, 'random_state': 0
+{'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 100, 'random_state': 0, 'subsample': 0.9}
+{'colsample_bytree': 0.8, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 1500, 'random_state': 0, 'subsample': 0.6}
+
+원딜
+{'max_depth': 10, 'max_features': 0.7, 'min_samples_split': 5, 'n_estimators': 300, 'random_state': 0}
+{'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 100, 'random_state': 0, 'subsample': 0.7}
+{'colsample_bytree': 0.9, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 1500, 'random_state': 0, 'subsample': 0.6}
+
+서폿
+{'max_depth': 10, 'max_features': 0.8, 'min_samples_split': 20, 'n_estimators': 100, 'random_state': 0}
+{'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 100, 'random_state': 0, 'subsample': 0.9}
+{'colsample_bytree': 0.9, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 1500, 'random_state': 0, 'subsample': 0.7}
